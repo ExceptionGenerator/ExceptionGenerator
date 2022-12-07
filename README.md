@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shiv-mohan-88a818239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivmohan" height="30" width="40" /></a>
-<a href="https://hub.docker.com/u/exceptiongenerator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivmohan" height="30" width="40" /></a>
+<a href="https://hub.docker.com/u/exceptiongenerator" target="blank"><img align="center" src="https://github.com/ExceptionGenerator/ExceptionGenerator/blob/main/docker.svg" alt="shivmohan" height="30" width="40" /></a>
 </p>
 
 
@@ -30,6 +30,7 @@
 - Microservices
 - Data structure
 - Algorithm
+- Docker
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=ExceptionGenerator" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=ExceptionGenerator" height="150" alt="languages graph"  />
